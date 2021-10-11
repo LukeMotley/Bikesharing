@@ -32,7 +32,7 @@ This project takes NYC bike data and uses visualizations created using Tableau t
 
 ## Summary:
 
-By far, more men use use bikesharing services than women
+From all this data, there are a number of key points that present themselves. Popular times for bike rentals seem to be typical times when people are awake and not at work, so in the morning and evening. More men rent bikes than women as well. Almost all bike rides are rented for less than an hour long.
 
 
 Some more visualizations that would aid in the exploration of bikesharing viablity in other cities would be :
